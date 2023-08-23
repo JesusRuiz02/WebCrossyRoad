@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641258, b: 0.5748172, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -340,7 +340,7 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 1
+  m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 312825cfa12f36e48ac45d11ad326dd7, type: 3}
 --- !u!4 &27600148 stripped
@@ -595,15 +595,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4317233095661742, guid: a6dea9f7a2a89f74e876bce778afc41c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 27.941107
+      value: 27.97
       objectReference: {fileID: 0}
     - target: {fileID: 4317233095661742, guid: a6dea9f7a2a89f74e876bce778afc41c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.120275
+      value: -1.31
       objectReference: {fileID: 0}
     - target: {fileID: 4317233095661742, guid: a6dea9f7a2a89f74e876bce778afc41c, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -7.2398133
+      value: -7.1
       objectReference: {fileID: 0}
     - target: {fileID: 4317233095661742, guid: a6dea9f7a2a89f74e876bce778afc41c, type: 3}
       propertyPath: m_LocalRotation.w
@@ -646,7 +646,7 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 1
+  m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 3db5da1e2a232674f8c536605b300918, type: 3}
 --- !u!4 &87822895 stripped
@@ -2458,7 +2458,7 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 1
+  m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 312825cfa12f36e48ac45d11ad326dd7, type: 3}
 --- !u!4 &626728694 stripped
@@ -2543,7 +2543,7 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 1
+  m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 312825cfa12f36e48ac45d11ad326dd7, type: 3}
 --- !u!4 &628645749 stripped
@@ -3624,7 +3624,7 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 1
+  m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 312825cfa12f36e48ac45d11ad326dd7, type: 3}
 --- !u!4 &922990865 stripped
@@ -4943,7 +4943,7 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 1
+  m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 312825cfa12f36e48ac45d11ad326dd7, type: 3}
 --- !u!4 &1202062025 stripped
@@ -5413,7 +5413,7 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 1
+  m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 312825cfa12f36e48ac45d11ad326dd7, type: 3}
 --- !u!4 &1301078246 stripped
@@ -6257,7 +6257,7 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 1
+  m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 312825cfa12f36e48ac45d11ad326dd7, type: 3}
 --- !u!4 &1468809979 stripped
@@ -7662,7 +7662,7 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 1
+  m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 312825cfa12f36e48ac45d11ad326dd7, type: 3}
 --- !u!4 &1921516363 stripped
@@ -8225,7 +8225,7 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 1
+  m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 312825cfa12f36e48ac45d11ad326dd7, type: 3}
 --- !u!4 &2086915996 stripped
