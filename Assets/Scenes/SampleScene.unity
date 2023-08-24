@@ -4325,7 +4325,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _nextDirection: {x: 0, y: 0, z: 0}
   _rigidbody: {fileID: 0}
-  _jumpForce: 75
+  _jumpForce: 50
   _currentPosition: {x: 0, y: 0, z: 0}
   _speed: 5
   _sceneManager: {fileID: 647353865}
